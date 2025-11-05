@@ -1,3 +1,4 @@
 Testando alteração do clone
 Segundo texte de alteração (primeiro não deu certo)
 Terceira tentativa (o erro era o . que não havia colocado depois de clonar o repo)
+Adicionando funcionalidades na branch teste
