@@ -3,3 +3,13 @@ Fazendo a modificação novamente
 Tentanto novamente realizar o merge bem sucedido, agora utilizarei o "git merge <main> --no-edit"
 
 Deu certo, agora vou tentar o git merge, só que dessa vez adicionando :wq para ver e funcionará
+Segui os passos : 
+
+-git checkout teste2
+-<Realizei alteraçoes no meu código>
+-git add .
+-git status
+-git checkout main
+-git push
+-git merge teste2
+DEU CERTO, OBTIVE UM MERGE BEM SUCEDIDO E INSTANTANEO 
