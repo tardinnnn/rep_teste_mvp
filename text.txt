@@ -1,0 +1,7 @@
+Inicializando
+Na terceira tentativa estou seguindo os passos : 
+- cd ..
+- git init
+- git commit -a -m <texto>
+
+;escrevendo qualquer coisa 11/11
